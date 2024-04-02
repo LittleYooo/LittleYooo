@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I am a college student, learning Computer Science. 💻
+### Hoping to make contributions to the github community. 🥰
 
 <!--
 **LittleYooo/LittleYooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
